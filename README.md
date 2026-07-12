@@ -6,6 +6,16 @@ This project develops a Digital Twin for Blast Furnace operation using Streamlit
 
 ---
 
+## Project Highlights
+
+- Built an interactive Blast Furnace Digital Twin using Streamlit
+- Implemented Machine Learning models for production forecasting
+- Developed Heat & Mass Balance KPI monitoring
+- Integrated Power BI for operational analytics
+- Designed an operator decision-support dashboard for process monitoring
+
+---
+
 ## Features
 
 - Digital Twin Simulation
